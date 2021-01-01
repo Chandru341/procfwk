@@ -374,6 +374,10 @@
 										"method": "GET",
 										"headers": {
 											"Content-Type": "application/json"
+										},
+										"authentication": {
+											"type": "MSI",
+											"resource": "https://management.core.windows.net/"
 										}
 									}
 								},
