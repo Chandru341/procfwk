@@ -9,15 +9,15 @@
 		},
 		"FrameworkFunctions_properties_typeProperties_functionAppUrl": {
 			"type": "string",
-			"defaultValue": "https://frameworksupportfunctions.azurewebsites.net"
+			"defaultValue": "https://frameworkfunction.azurewebsites.net"
 		},
 		"Keys_properties_typeProperties_baseUrl": {
 			"type": "string",
-			"defaultValue": "https://FrameworkKeys.vault.azure.net/"
+			"defaultValue": "https://kv-azurelearning.vault.azure.net/"
 		},
 		"SupportDatabase_properties_typeProperties_connectionString_secretName": {
 			"type": "string",
-			"defaultValue": "FrameworkMetadataDev"
+			"defaultValue": "SQLDBConnectionString"
 		},
 		"containerUri": {
 			"type": "string",

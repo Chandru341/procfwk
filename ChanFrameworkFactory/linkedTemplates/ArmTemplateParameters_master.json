@@ -6,13 +6,13 @@
 			"value": "ChanFrameworkFactory"
 		},
 		"FrameworkFunctions_properties_typeProperties_functionAppUrl": {
-			"value": "https://frameworksupportfunctions.azurewebsites.net"
+			"value": "https://frameworkfunction.azurewebsites.net"
 		},
 		"Keys_properties_typeProperties_baseUrl": {
-			"value": "https://FrameworkKeys.vault.azure.net/"
+			"value": "https://kv-azurelearning.vault.azure.net/"
 		},
 		"SupportDatabase_properties_typeProperties_connectionString_secretName": {
-			"value": "FrameworkMetadataDev"
+			"value": "SQLDBConnectionString"
 		},
 		"containerUri": {
 			"value": ""
