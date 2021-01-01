@@ -372,9 +372,8 @@
 											"type": "Expression"
 										},
 										"method": "GET",
-										"authentication": {
-											"type": "MSI",
-											"resource": "https://management.core.windows.net/"
+										"headers": {
+											"Content-Type": "application/json"
 										}
 									}
 								},
